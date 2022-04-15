@@ -1,6 +1,6 @@
 # Exemplos de testes de API, utilizando Jest e Supertest
 
-Neste projeto, usei o ViaCep para conhecer um pouco mais sobre testes de API com node.js, usando Jest e Supertest. 
+Neste projeto, usei o serviço do ViaCep para estudar um pouco sobre testes de API com node.js, usando Jest e Supertest. 
 Os testes escritos no arquivo examples.js tratam-se de serviços que não existem, e tem como objetivo apenas servir de fonte de consulta.
 
 ## 🛠️ Dependências do Projeto
